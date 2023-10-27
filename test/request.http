@@ -1,0 +1,7 @@
+GET http://localhost:7071/api/peek HTTP/1.1
+content-type: application/json
+
+###
+
+GET https://sneaky-goggles-func.azurewebsites.net/api/peek HTTP/1.1
+content-type: application/json
