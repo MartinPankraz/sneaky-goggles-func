@@ -4,8 +4,8 @@ Azure Function distributing information for hands-on events for developer bliss.
 
 ## Get Started
 
-`run npm install`
-`run npm start`
+run `npm install`
+run `npm start`
 
 ## Deploy to Azure
 
